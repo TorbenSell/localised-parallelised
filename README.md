@@ -6,7 +6,7 @@ In the fully localised imaging example, a parallelised blocked Metropolis-within
 
 In the approximately localised example, a parallelised blocked Metropolis-within-Gibbs algorithm (which only yields approximate results), a delayed-acceptance algorithm using parallellised local proposals, and a Metropolis-Adjusted Langevin Algorithm are compared.
 
-Please get in touch with me if you have any questions, I will make my thesis available once I can, in the meantime please reach out to me if you are interested in a draft version.
+Please get in touch with me if you have any questions, I will make my thesis available once I can. In the meantime, please reach out to me if you are interested in a draft version.
 
 
 Torben Sell, 2.2.2021
